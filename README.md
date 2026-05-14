@@ -4,12 +4,6 @@ This project develops a non-invasive **remote photoplethysmography (rPPG)** syst
 
 The estimated rPPG heart rate is validated against a **CMS50D pulse oximeter**, which provides wearable PPG ground-truth heart rate, SpO2, and pulse waveform data.
 
-## Team Members
-
-- Asal Abbas Nejad Fard
-- Mohammadreza Zamani
-- Mohanesh Ravi
-
 ## Project Goal
 
 The main goal is to build a nearable physiological monitoring system that can estimate heart rate from subtle skin color variations in RGB video while reducing errors caused by head movement and motion artifacts.
